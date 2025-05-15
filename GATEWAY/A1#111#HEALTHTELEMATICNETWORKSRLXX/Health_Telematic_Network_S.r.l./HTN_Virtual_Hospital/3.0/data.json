@@ -1,0 +1,187 @@
+{
+    "appVendor": "Health_Telematic_Network_S.r.l.",
+    "appId": "HTN_Virtual_Hospital",
+    "appVersion": "3.0",
+    "results": [
+        {
+            "id": 169,
+            "traceId": "a4131be17baf5da4f76ec4b59a387b5b",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.e6c730d865^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:34Z",
+            "files": [
+                "Case 169"
+            ]
+        },
+        {
+            "id": 163,
+            "traceId": "abf812b2cca54a40c960b31240852a60",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.e096fd6061^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:36Z",
+            "files": [
+                "Case 163"
+            ]
+        },
+        {
+            "id": 160,
+            "traceId": "dec25272dfb524f8ab98ec245738553e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.6b3b8437a8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:37Z",
+            "files": [
+                "Case 160"
+            ]
+        },
+        {
+            "id": 152,
+            "traceId": "5d78241d977cf45805d7efe5ab61cce1",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.8e4647e304^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:39Z",
+            "files": [
+                "Case 152"
+            ]
+        },
+        {
+            "id": 468,
+            "traceId": "1f6a17a2f072a8bae143aec89996fefe",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.57d4e7c510^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:41Z",
+            "files": [
+                "Case 468"
+            ]
+        },
+        {
+            "id": 166,
+            "traceId": "bc924752ffcc46a617bfa9b915f48ca0",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.5bebc8b628^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:42Z",
+            "files": [
+                "Case 166"
+            ]
+        },
+        {
+            "id": 449,
+            "traceId": "4ae876abe3cc3283bebceae2134b1ba3",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.27919a0df6^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:44Z",
+            "files": [
+                "Case 449"
+            ]
+        },
+        {
+            "id": 158,
+            "traceId": "5eaa67800ba8d66a89ef0d190c006a4a",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.4109f86d08^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:45Z",
+            "files": [
+                "Case 158"
+            ]
+        },
+        {
+            "id": 159,
+            "traceId": "df1173d1cda334345b14ab8450e18126",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.e9248c1ea0^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:47Z",
+            "files": [
+                "Case 159"
+            ]
+        },
+        {
+            "id": 154,
+            "traceId": "07d4379a56a1e42c2705e37a1b820b29",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.05237caae5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:49Z",
+            "files": [
+                "Case 154"
+            ]
+        },
+        {
+            "id": 161,
+            "traceId": "5f94c6a9ae1b86cfe6d9688feeb693ec",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.a5a1f4ab7f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:50Z",
+            "files": [
+                "Case 161"
+            ]
+        },
+        {
+            "id": 448,
+            "traceId": "c2214b9050dd167a00be33599fc3f612",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.b992e790ad^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:51Z",
+            "files": [
+                "Case 448"
+            ]
+        },
+        {
+            "id": 168,
+            "traceId": "a336111a62a4bc5c6cb9525cccd8916d",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.817c4b01a5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:53Z",
+            "files": [
+                "Case 168"
+            ]
+        },
+        {
+            "id": 167,
+            "traceId": "cc4aa0f382bc7a5e78feec9dd05b1ed5",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.82e07d27ce^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:54Z",
+            "files": [
+                "Case 167"
+            ]
+        },
+        {
+            "id": 162,
+            "traceId": "7b9accfe1cd25da0106214d33bf14a41",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.0b0ff0b1a8^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:56Z",
+            "files": [
+                "Case 162"
+            ]
+        },
+        {
+            "id": 155,
+            "traceId": "dea7d902a05ea76ca6694f74668487c7",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.655705de0f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:57Z",
+            "files": [
+                "Case 155"
+            ]
+        },
+        {
+            "id": 164,
+            "traceId": "83cf25729bdc1974a40957dd63d239f3",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.b8dc4a515e^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:42:59Z",
+            "files": [
+                "Case 164"
+            ]
+        },
+        {
+            "id": 165,
+            "traceId": "5caeed2551ce7c4b9cf22f2850942330",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.3d8a0fb5e7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:43:00Z",
+            "files": [
+                "Case 165"
+            ]
+        },
+        {
+            "id": 461,
+            "traceId": "2dcc0f7dd92fc9897fb46c2a32aff47e",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.94cd614c23^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:43:02Z",
+            "files": [
+                "Case 461"
+            ]
+        },
+        {
+            "id": 156,
+            "traceId": "b3df9b4eef0fb2aec98e8cc11934c517",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.79f34ea71a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "ts": "2025-05-15T07:43:03Z",
+            "files": [
+                "Case 156"
+            ]
+        }
+    ]
+}
