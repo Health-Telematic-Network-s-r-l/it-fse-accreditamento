@@ -1,6 +1,6 @@
 {
-    "appVendor": "Health_Telematic_Network_S.r.l.",
-    "appId": "HTN_Virtual_Hospital",
+    "appVendor": "Health Telematic Network S.r.l.",
+    "appId": "HTN Virtual Hospital",
     "appVersion": "3.0",
     "results": [
         {
@@ -9,7 +9,7 @@
             "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
             "ts": "2025-05-15T10:37:24Z",
             "files": [
-                "Case 32"
+                "Case 32.pdf"
             ]
         },
         {
@@ -18,7 +18,7 @@
             "workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
             "ts": "2025-05-15T10:37:26Z",
             "files": [
-                "Case 40"
+                "Case 40.pdf"
             ]
         },
         {
@@ -27,7 +27,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.b1771138e1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:35Z",
             "files": [
-                "Case 152"
+                "Case 152.pdf"
             ]
         },
         {
@@ -36,7 +36,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.dfab20edac^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:46Z",
             "files": [
-                "Case 154"
+                "Case 154.pdf"
             ]
         },
         {
@@ -45,7 +45,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.7efd26ca3a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:58Z",
             "files": [
-                "Case 155"
+                "Case 155.pdf"
             ]
         },
         {
@@ -54,7 +54,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.b8b7a59bfc^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:38:05Z",
             "files": [
-                "Case 156"
+                "Case 156.pdf"
             ]
         },
         {
@@ -63,7 +63,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.61eb351a11^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:42Z",
             "files": [
-                "Case 158"
+                "Case 158.pdf"
             ]
         },
         {
@@ -72,7 +72,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.886621c1d9^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:44Z",
             "files": [
-                "Case 159"
+                "Case 159.pdf"
             ]
         },
         {
@@ -81,7 +81,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.3eba035206^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:33Z",
             "files": [
-                "Case 160"
+                "Case 160.pdf"
             ]
         },
         {
@@ -90,7 +90,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.4f3203f8e1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:48Z",
             "files": [
-                "Case 161"
+                "Case 161.pdf"
             ]
         },
         {
@@ -99,7 +99,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.7e6301af0f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:56Z",
             "files": [
-                "Case 162"
+                "Case 162.pdf"
             ]
         },
         {
@@ -108,7 +108,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.150d49e307^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:30Z",
             "files": [
-                "Case 163"
+                "Case 163.pdf"
             ]
         },
         {
@@ -117,7 +117,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.90f9f82cd1^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:38:00Z",
             "files": [
-                "Case 164"
+                "Case 164.pdf"
             ]
         },
         {
@@ -126,7 +126,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.0716630ff7^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:38:02Z",
             "files": [
-                "Case 165"
+                "Case 165.pdf"
             ]
         },
         {
@@ -135,7 +135,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.72b59f3b8d^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:38Z",
             "files": [
-                "Case 166"
+                "Case 166.pdf"
             ]
         },
         {
@@ -144,7 +144,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.5a757dbf73^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:54Z",
             "files": [
-                "Case 167"
+                "Case 167.pdf"
             ]
         },
         {
@@ -153,7 +153,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.ccd7fa8b3a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:52Z",
             "files": [
-                "Case 168"
+                "Case 168.pdf"
             ]
         },
         {
@@ -162,7 +162,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.0ee66ad421^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:28Z",
             "files": [
-                "Case 169"
+                "Case 169.pdf"
             ]
         },
         {
@@ -171,7 +171,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.2a61ef15c5^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:50Z",
             "files": [
-                "Case 448"
+                "Case 448.pdf"
             ]
         },
         {
@@ -180,7 +180,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.873ef7a345^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:40Z",
             "files": [
-                "Case 449"
+                "Case 449.pdf"
             ]
         },
         {
@@ -189,7 +189,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.9950282efd^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:38:04Z",
             "files": [
-                "Case 461"
+                "Case 461.pdf"
             ]
         },
         {
@@ -198,7 +198,7 @@
             "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.2149fb78666c205ac20b9bd2d882af037f0819429c691196eaa8054488c56c20.2d37ab7b07^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
             "ts": "2025-05-15T10:37:37Z",
             "files": [
-                "Case 468"
+                "Case 468.pdf"
             ]
         }
     ]
